@@ -24,7 +24,8 @@
 |인공지능|tensorflow, DNN|
 
 ## 4. 아키텍처(구조)
-![서비스아키텍처_아쿠아맨](https://user-images.githubusercontent.com/104408853/171079995-97d3bd63-20a8-42ad-97ca-5c2d2cf8b9e4.png)
+![서비스아키텍쳐_MP6](https://user-images.githubusercontent.com/104408853/188761266-db05962e-83e5-4a11-9b3c-313a5fadfd64.png)
+
 
 
 ## 5. 기능 흐름도
